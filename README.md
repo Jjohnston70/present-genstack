@@ -8,6 +8,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![TNDS](https://img.shields.io/badge/TNDS-truenorthstrategyops.com-0A8EA0?style=for-the-badge)](https://truenorthstrategyops.com)
 
+<img src="present-genstack.png" alt="Pipeline Penny" width="260" />
+
 </div>
 
 `present-genstack` converts a markdown README into a polished, single-file HTML slide presentation.
